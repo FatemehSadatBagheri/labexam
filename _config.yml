@@ -5,11 +5,11 @@ keywords: ephesus, blog
 description: >-
   Ephesus - Minimalist Jekyll Theme
 lang: en-US
-timezone:  Europe/Istanbul
+timezone:  Tehran
 repo: https://fatemehsadatbagheri.github.io/labexam/ # site repo [optional]
-google_verify:      XXX # Put your Google Verification here
-google_analytics:   UA-XXXXXXXX-00 # Put your Google Analytics code
-discus-identifier:  XXX
+# google_verify:      XXX # Put your Google Verification here
+# google_analytics:   UA-XXXXXXXX-00 # Put your Google Analytics code
+# discus-identifier:  XXX
 
 # Author settings
 author:
@@ -29,10 +29,10 @@ author:
 url: "http://127.0.0.1:4000" # Domain Name of host. [username].github.io for github pages
 permalink: pretty
 
-markdown: kramdown
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
+# markdown: kramdown
+# kramdown:
+#   input: GFM
+#   syntax_highlighter: rouge
 
 
 exclude:
