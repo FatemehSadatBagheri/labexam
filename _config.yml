@@ -1,28 +1,28 @@
 # Site settings
-site: Ephesus
-title: Ephesus - Minimalist Jekyll Theme
+site: labexam
+title: labexam_FatemehsadatBagheri
 keywords: ephesus, blog
 description: >-
   Ephesus - Minimalist Jekyll Theme
 lang: en-US
 timezone:  Europe/Istanbul
-repo: https://github.com/onepase/Ephesus # site repo [optional]
+repo: https://fatemehsadatbagheri.github.io/labexam/ # site repo [optional]
 google_verify:      XXX # Put your Google Verification here
 google_analytics:   UA-XXXXXXXX-00 # Put your Google Analytics code
 discus-identifier:  XXX
 
 # Author settings
 author:
-  name: Hakan Torun
-  bio: Computer Engineer @pardinus <br> Founder @zaqa <br> Open Source /#linux
-  picture: assets/images/profile.jpg 
+  name: FatemehsadatBagheri
+  bio: Computer Engineer at IUST <br> Founder @zaqa <br> Open Source /#linux
+  picture: assets/images/1.jpg 
   github: onepase # github username
   twitter: onepase # twitter username
   facebook: onepase # facebook username
   instagram: onepase # instagram username
-  youtube: https://www.youtube.com/channel/UCMmAto-wxBootXN91AzBiDg # youtube username
-  linkedin: hakantorun # linkedin username
-  email: your-email@email.com # email adress
+  # youtube: https://www.youtube.com/channel/UCMmAto-wxBootXN91AzBiDg # youtube username
+  linkedin: FatemehsadatBagheri # linkedin username
+  email: fsbagheri82@gmail.com # email adress
 
 
 # URL settings
