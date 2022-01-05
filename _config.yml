@@ -1,7 +1,6 @@
 # Site settings
 site: labexam
 title: labexam_FatemehsadatBagheri
-keywords: ephesus, blog
 description: >-
   Ephesus - Minimalist Jekyll Theme
 lang: en-US
@@ -26,8 +25,8 @@ author:
 
 
 # URL settings
-url: "http://127.0.0.1:4000" # Domain Name of host. [username].github.io for github pages
-permalink: pretty
+# url: "http://127.0.0.1:4000" # Domain Name of host. [username].github.io for github pages
+# permalink: pretty
 
 # markdown: kramdown
 # kramdown:
